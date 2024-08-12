@@ -12,7 +12,7 @@ baseURL: "https://personal.mathgradboard.com/"
 # Start Title Section
 # https://github.com/uiowa-mgb/personal-site-template/wiki/Title-Section
 ################################################################################
-title: "Pythagoras of Samos"
+title: "Robert DeYeso III"
 ################################################################################
 # End Title Section
 ################################################################################
@@ -48,7 +48,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: true
-      disableAchievements: false
+      disableAchievements: true
       disableTalks: false
       disableTeaching: false
       disableContact: true
@@ -114,7 +114,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Pythagoras of Samos."
+    title: "Robert DeYeso III"
     subtitle: ""
     content: ""
     image: images/Pythagoras.jpeg
@@ -149,18 +149,15 @@ params:
     title: "About Me"
     # image: "/images/Pythagoras.jpeg"
     content: |-
-        In dolor dolor, eleifend at leo a, viverra convallis risus. Aliquam eu leo
-        diam. Vivamus at urna dignissim, venenatis dolor ut, laoreet elit.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        I am a low-dimensional topologist that is currently an RTG Postdoctoral Fellow at the University of Iowa.
     skills:
       enable: true
-      title: "Here are some of my research interests:"
+      title: "My research interests include:"
       items:
-        - "Triangles"
-        - "Circles"
-        - "Squares"
-        - "Points"
-        - "Angles"
+        - "Knot theory"
+        - "Floer homology"
+        - "Dehn surgery"
+        - "Contact surgery"
 
 
 ################################################################################
